@@ -1,6 +1,5 @@
 # Vitrina — Tienda Demo
 
-Demostración de una plataforma de e-commerce (solo frontend, productos de ejemplo).
-No contiene datos reales de ningún negocio.
+Demo de e-commerce (frontend, productos de ejemplo). Sin datos reales.
 
-**Ver en vivo:** https://emiliougarte65.github.io/vitrina-demo/
+**En vivo:** https://emiliougarte65.github.io/vitrina-demo/
